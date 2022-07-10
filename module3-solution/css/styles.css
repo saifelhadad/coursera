@@ -1,0 +1,15 @@
+#nav-list{
+	width: 	100%;
+	background-color: 	#D3D3D3;
+}
+
+.container{
+	border: 1px solid black;
+    background-color: #B2BEB5;
+    margin: 10px 0px 10px 0px;
+}
+.container-fluid{
+	height: 75px;
+	background-color: #899499;
+	color: white;
+}
